@@ -22,6 +22,6 @@ Just run Eye-care in the background to get reminded to take a break
 ## Usage
 
 - git clone https://github.com/sabari50312/Eye-care.git
-- Run App.py (double click or run "python main.py" from within eye-care folder)
+- Run App.py (double click or run "python main.py" in terminal or cmd from within eye-care folder)
 
 ## Demo
