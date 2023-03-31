@@ -4,7 +4,7 @@ try:
     import time
     from tkinter import *
     from tkinter import messagebox
-    from loadData import getConfig
+    from ConfigEditor import getConfig
     import platform
 
     CLEAR= 'clear' if platform.system()=="Linux" else 'cls'
